@@ -3,7 +3,10 @@
 El enfoque contemporáneo en diseño ha evolucionado hacia la comprensión y aplicación de la percepción multisensorial como una herramienta fundamental para crear experiencias significativas que sean aplicables a proyectos de diseño. Este proyecto se propone explorar la intersección de múltiples canales sensoriales, reconociendo que la percepción no se limita únicamente a la visión, sino que también involucra canales sensoriales.
 
 ![Fig](sesorial_design.png)
-*Esquema de Interacción Multisensorial. Fuente: <em>Manuel Guerrero, 2015.</em>*
+
+*Esquema de Interacción Multisensorial. Fuente: Manuel Guerrero, 2015.*
+
+---
 
 ## Productos
 
